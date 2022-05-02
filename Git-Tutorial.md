@@ -13,4 +13,9 @@
 2. https://git-scm.com/docs/gittutorial
 3. https://git-scm.com/videos
 4. https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html
-5. 
+
+
+
+
+Write a brilliant description that will make everyone understand Git in 2 minutes. 
+
