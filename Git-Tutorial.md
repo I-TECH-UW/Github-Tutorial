@@ -9,12 +9,10 @@
 5. ??
 
 ## Resources
+
 1. https://git-scm.com/book/en/v2
 2. https://git-scm.com/docs/gittutorial
 3. https://git-scm.com/videos
 4. https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html
 
-
-
-
-Git is a version control tool that allows us to do lots of great things.
+Git is a version control tool that allows us to do lots of amazing things.
