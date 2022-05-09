@@ -17,5 +17,4 @@
 
 
 
-Write a brilliant description that will make everyone understand Git in 2 minutes. 
-
+Git is a version control tool that allows us to do lots of great things.
