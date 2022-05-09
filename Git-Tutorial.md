@@ -17,4 +17,4 @@
 
 
 
-Git is a version control tool that allows us to do lots of great things.
+Git is a version control tool that allows us to do so many useful tasks at work.
